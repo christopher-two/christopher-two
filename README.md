@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Christopher Alejandro Maldonado Chavez</h1>
 <h3 align="center">Soy un desarrollador de movil en jetpack compose, actualmente desarrollando QUICKNESS de Override</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bebocod&label=Profile%20views&color=0e75b6&style=flat" alt="bebocod" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=christopher-two&label=Profile%20views&color=0e75b6&style=flat" alt="christopher-two" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bebocod" alt="bebocod" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christopher-two" alt="christopher-two" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/panecitosup" target="blank"><img src="https://img.shields.io/twitter/follow/panecitosup?logo=twitter&style=for-the-badge" alt="panecitosup" /></a> </p>
 
