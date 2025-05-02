@@ -28,6 +28,15 @@
 
 ---
 
+### 🚀 Mis Proyectos Destacados:
+
+* **Quickness:** Un proyecto enfocado en la sencillez, rapidez y seguridad. Más info en [override.com.mx](http://www.override.com.mx)
+* **Lyra:** Plataforma o herramienta desarrollada en Override. Visítala en [lyra.override.com.mx](https://lyra.override.com.mx/)
+* **Calabozos y Compuertas (C&C):** Colaboración en un libro interactivo sobre lógica digital. Lee la introducción [aquí](https://calabozoscompuertas.docs.override.com.mx/intro.html#p-blico-objetivo)
+* **Apollo:** Otro interesante proyecto de Override. Detalles en [override.com.mx](http://www.override.com.mx)
+
+---
+
 ### 🛠️ Habilidades Técnicas:
 
 #### Lenguajes:
