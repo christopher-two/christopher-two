@@ -1,90 +1,72 @@
-<h1 align="center">Hola 👋, soy Christopher Alejandro Maldonado Chavez</h1>
-<h3 align="center">Desarrollador Móvil especializado en Jetpack Compose</h3>
-<p align="center"><em>Actualmente desarrollando QUICKNESS en Override</em></p>
+<div align="center">
+  
+# 👋 ¡Hola! Soy Christopher
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=christopher-two&label=Vistas%20del%20Perfil&color=0e75b6&style=flat-square" alt="contador de vistas del perfil" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=christopher-two&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trofeos de github" />
-  </a>
-</p>
+### 🐐 El GOAT | Developer @ Override | 🇲🇽 México
 
-<p align="center">
- <a href="https://twitter.com/panecitosup" target="_blank"><img src="https://img.shields.io/twitter/follow/panecitosup?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=grey" alt="Seguir en Twitter" /></a>
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/christopher-two?style=social)](https://github.com/christopher-two)
+[![GitHub stars](https://img.shields.io/github/stars/christopher-two?style=social)](https://github.com/christopher-two)
+
+</div>
 
 ---
 
-### 👨‍💻 Sobre Mí:
+## 🚀 Sobre Mí
 
-* 🚀 Mi Proyecto actual: **[QUICKNESS](https://github.com/Quickness-dev)** - ¡Sencilles, Rapidez y Seguridad!
-* 🌱 Actualmente estoy aprendiendo: **Docker y Wasm** - Expandiendo horizontes.
-* 🤝 Colaborando en: **[Calabozos y Compuertas](https://github.com/OverrideLLC/Calabozos-Compuertas-Mobile)** - Un libro sobre Lógica Digital en KMM.
-* 🔥 Participo activamente en proyectos de **[Override](https://github.com/OverrideLLC)**.
-* 💼 Puedes ver todos mis proyectos en: **[override.com.mx](http://www.override.com.mx)**
-* 📝 A veces comparto cosas en: **[Instagram](https://instagram.com/christopher_two_)**
-* 💬 Pregúntame sobre: **Compose Multiplataforma, Jetpack Compose, Kotlin, Java, Android Nativo**.
-* 📫 Cómo contactarme: **christopher.cop787@gmail.com**
+Soy un desarrollador apasionado con base en México, actualmente trabajando en **Override**.
 
----
-
-### 🚀 Mis Proyectos Destacados:
-
-* **Quickness:** Un proyecto enfocado en la sencillez, rapidez y seguridad. Más info en [override.com.mx](http://www.override.com.mx)
-* **Lyra:** Plataforma o herramienta desarrollada en Override. Visítala en [lyra.override.com.mx](https://lyra.override.com.mx/)
-* **Calabozos y Compuertas (C&C):** Colaboración en un libro interactivo sobre lógica digital. Lee la introducción [aquí](https://calabozoscompuertas.docs.override.com.mx/intro.html#p-blico-objetivo)
-* **Apollo:** Otro interesante proyecto de Override. Detalles en [override.com.mx](http://www.override.com.mx)
+- 🔭 Actualmente trabajando en proyectos emocionantes
+- 🌱 Aprendiendo y evolucionando constantemente
+- 💼 Trabajando en **Override**
+- 📍 Ubicado en **México**
+- 🐐 ¡El GOAT!
 
 ---
 
-### 🛠️ Habilidades Técnicas:
+## 📊 Estadísticas de GitHub
 
-#### Lenguajes:
-<p align="center">
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-</p>
+<div align="center">
+  
+![Estadísticas de Christopher](https://github-readme-stats.vercel.app/api?username=christopher-two&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-#### Tecnologías:
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/></a> 
-  <a href="https://www.jetbrains.com/lp/compose-multiplatform/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="Compose Multiplataforma" width="40" height="40"/></a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> 
-</p>
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-two&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
-#### Herramientas:
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/></a>  <a href="https://inkscape.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="inkscape" width="40" height="40"/></a> </p>
+</div>
 
 ---
 
-### 📊 Mis Estadísticas de GitHub:
+## 🌐 Mi Portafolio Web
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=christopher-two&show_icons=true&locale=es&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Christopher" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-two&layout=compact&locale=es&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Lenguajes más usados por Christopher" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christopher-two&theme=radical&hide_border=true" alt="Racha de Commits de Christopher" />
-</p>
+<div align="center">
+
+[![Portfolio Preview](https://img.shields.io/badge/🚀_Visita_Mi_Web-FF6B6B?style=for-the-badge&logoColor=white)](https://tu-web.com)
+
+<!-- Opción 1: Con captura de pantalla directa -->
+<a href="https://tu-web.com" target="_blank">
+  <img src="https://vluoppbaehfmhkebyygv.supabase.co/storage/v1/object/public/imagenes/Web_Photo.png" alt="Preview del Portafolio" width="800px" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+</a>
+
+### ✨ Explora mi trabajo y proyectos
+
+</div>
 
 ---
 
-### 📫 Conéctate conmigo:
+## 💬 Conectemos
 
-<p align="center">
-  <a href="https://linkedin.com/in/christopher-alejandro-maldonado-chavez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Christopher Maldonado" height="30" width="40" /></a>  
-  <a href="https://twitter.com/panecitosup" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@panecitosup" height="30" width="40" /></a>  
-  <a href="https://instagram.com/christopher_two_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram christopher_two_" height="30" width="40" /></a>  
-  <a href="https://fb.com/christopher chavez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Christopher Chavez" height="30" width="40" /></a>  
-  <a href="https://www.youtube.com/c/bebocoder" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Canal de Youtube" height="30" width="40" /></a>
-</p>
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-christopher--two-181717?style=for-the-badge&logo=github)](https://github.com/christopher-two)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tu--web.com-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-web.com)
 
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 *"El GOAT no espera oportunidades — las crea."*
+
+![Vistas del Perfil](https://komarev.com/ghpvc/?username=christopher-two&color=blueviolet&style=flat-square)
+
+</div>
