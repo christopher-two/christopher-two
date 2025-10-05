@@ -57,7 +57,6 @@ Soy un desarrollador apasionado con base en México, actualmente trabajando en *
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-christopher--two-181717?style=for-the-badge&logo=github)](https://github.com/christopher-two)
-[![Portfolio](https://img.shields.io/badge/Portfolio-tu--web.com-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-web.com)
 
 </div>
 
