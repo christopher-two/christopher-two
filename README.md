@@ -39,7 +39,7 @@ Soy un desarrollador apasionado con base en México, actualmente trabajando en *
 
 <div align="center">
 
-[![Portfolio Preview](https://img.shields.io/badge/🚀_Visita_Mi_Web-FF6B6B?style=for-the-badge&logoColor=white)](https://tu-web.com)
+[![Portfolio Preview](https://img.shields.io/badge/🚀_Visita_Mi_Web-FF6B6B?style=for-the-badge&logoColor=white)](https://www.christopher.com.mx)
 
 <!-- Opción 1: Con captura de pantalla directa -->
 <a href="https://tu-web.com" target="_blank">
