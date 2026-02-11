@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://images.cloud.christopher.com.mx/banner/CHRISTOPHER_TWO.jpg" alt="Profile Banner" width="100%" />
-</div>
-
-<div align="center">
-
 # Hi 👋, I'm ChristopherTwo
 
 ### Ingeniero de Android a tiempo completo.
@@ -138,29 +132,3 @@ Empresa de software dedicada a el desarrollo de los mejores softwares de la zona
 ### 💻 Other
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=christopher-two&theme=dark&column=7&margin-w=15&margin-h=15)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christopher-two&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-two&layout=compact&theme=dark&langs_count=10)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=christopher-two&label=Profile%20Visitors&color=blueviolet&style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thank you for visiting my profile! 😊**
-
-![Profile Views](https://komarev.com/ghpvc/?username=christopher-two&color=brightgreen&style=flat-square&label=Profile+Views)
-
-</div>
