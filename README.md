@@ -1,137 +1,99 @@
 <div align="center">
-  
-# Hi 👋, I'm ChristopherTwo
 
-### Ingeniero de Android a tiempo completo.
+# Christopher Two
 
-<img src="https://github.com/christopher-two.png" alt="ChristopherTwo" width="150" height="150" style="border-radius: 50%;" />
+### Desarrollador multiplataforma especializado en Kotlin, Android y Web
 
-</div>
+<img src="https://github.com/christopher-two.png" alt="Christopher Alejandro Maldonado Chávez" width="150" height="150" />
 
-## 🚀 About Me
-
-Ingeniero en Sistemas Computacionales enfocado en Jetpack Compose y Compose Multiplatform.
-Construyo productos escalables desde aplicaciones nativas hasta soluciones Full Stack con Ktor y Docker.
-Ganador de Innovatec 2025 y apasionado por arquitecturas limpias (Clean Arch + MVI).
-
-## 💼 Current Work
-
-<div align="left">
-
-- 🔭 I'm currently working on [**Atomo**](https://www.christopher.com.mx/projects/atomo-app)
-- 👯 I'm looking to collaborate on [**Override Menu**](https://menu.override.com.mx/)
+<p>
+  <a href="https://www.christopher.com.mx">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/christopher-two/">LinkedIn</a> ·
+  <a href="mailto:hola@christopher.com.mx">Contacto</a>
+</p>
 
 </div>
 
-## 📚 Learning & Knowledge
+## Sobre mí
 
-<div align="left">
+Soy Christopher Alejandro Maldonado Chávez, desarrollador multiplataforma desde Uruapan, México. Trabajo entre Android, Kotlin Multiplatform y la Web para convertir problemas complejos en productos claros, útiles y listos para producción.
 
-- 🌱 I'm currently learning **Sigo aprendiendo Arquitectura de software todos los dias**
+Me interesan especialmente las arquitecturas limpias, las experiencias offline-first, la inteligencia artificial aplicada y los productos que pueden crecer sin perder simplicidad.
 
-</div>
+Actualmente trabajo en **Override**, una empresa de software enfocada en construir productos digitales rápidos, escalables y con identidad propia.
 
-## 🚀 Projects
+## En qué estoy trabajando
 
-| Project | Description | Links |
+- Desarrollo de productos para Android, iOS, Desktop y Web con Kotlin Multiplatform.
+- Arquitecturas modulares con Clean Architecture y patrones MVI/MVVM.
+- IA aplicada en dispositivos con ML Kit y TensorFlow Lite.
+- Backend y despliegues con Ktor, Firebase, Supabase y Cloudflare.
+
+## Aplicaciones publicadas
+
+| Aplicación | Descripción | Enlace |
 |---|---|---|
-| Parse | Parse es una aplicación de lectura de libros de vanguardia para Android, diseñada para ofrecer una experiencia inmersiva y fluida inspirada en la simplicidad de los dispositivos Kindle. | [Live](https://parse.christopher.com.mx) |
-| Spot | Spot es una aplicación móvil innovadora de geocaching emocional que transforma coordenadas GPS en experiencias visuales y significativas. | [Live](https://spot.christopher.com.mx) |
-| Atomo | Atomo App es la extensión móvil nativa del ecosistema Atomo, diseñada para ofrecer una gestión potente y fluida de servicios digitales directamente desde el dispositivo Android. | [Live](https://www.christopher.com.mx/projects/atomo-app) |
+| **Parse** | Lector de libros y PDFs para Android con traducción inteligente y una experiencia enfocada. | [Google Play](https://play.google.com/store/apps/details?id=org.christophertwo.parse) |
+| **Helix** | Monitor de sistema para Android con métricas de batería, memoria, almacenamiento y sensores. | [Google Play](https://play.google.com/store/apps/details?id=org.override.system.monitor) |
+| **Jukskani** | Plataforma inmobiliaria para explorar, publicar y gestionar propiedades desde Android. | [Google Play](https://play.google.com/store/apps/details?id=org.override.eje.android) |
 
-### Parse
+## Proyectos destacados
 
-<img src="https://pub-f9c51555bfe841b8af90cf9dc30b962d.r2.dev/Parse/Captura%20desde%202026-02-10%2020-04-27.png" alt="Parse" width="500"/>
-
-**Technologies Used:** Android, Compose, Gemini API, MVI, Google Auth, ML Kit Translation, PDFBox, Navigation 3
-
-### Spot
-
-<img src="https://pub-f9c51555bfe841b8af90cf9dc30b962d.r2.dev/Spot/Captura%20desde%202026-02-10%2020-07-03.png" alt="Spot" width="500"/>
-
-**Technologies Used:** Jetpack Compose, Room, Koin, Dokka, Mapbox Maps SDK, Cloudflare R2, Supabase
-
-### Atomo
-
-<img src="https://pub-f9c51555bfe841b8af90cf9dc30b962d.r2.dev/Atomo/web/Captura%20desde%202026-01-31%2018-08-04.png" alt="Atomo" width="500"/>
-
-**Technologies Used:** Android Native, Jetpack Compose, WorkManager, Room
-
-## 🎓 Education
-
-| Institution | Degree | Duration |
+| Proyecto | Qué construí | Tecnologías |
 |---|---|---|
-| Instituto Tecnologico Superior De Uruapan | Ingeniería | 2021-08 - 2026-01 |
-| Cetis27 | Tecnico | 2018-02 - 2021-06 |
+| [**Jukskani**](https://github.com/OverrideLLC/Eje) | Ecosistema inmobiliario para compradores, asesores y agencias, con mapas, perfiles, pagos y operación multiplataforma. | Kotlin Multiplatform, Compose Multiplatform, FastAPI, Supabase, Stripe, MapLibre |
+| [**Quickness**](https://github.com/OverrideLLC/Quickness-Mobile) | Plataforma de control de accesos con QR dinámicos, operación offline, analítica y asistencia de IA. | Kotlin Multiplatform, Compose Multiplatform, Ktor, Firebase, Room, Wasm |
+| [**Override Sense**](https://sense.override.com.mx/) | Aplicación de accesibilidad que convierte sonidos críticos en alertas visuales y hápticas procesadas en el dispositivo. | Kotlin, Jetpack Compose, TensorFlow Lite, MVVM, Koin |
+| [**Parse**](https://parse.christopher.com.mx) | Lector Android con biblioteca, soporte PDF, traducción con ML Kit y navegación moderna. | Kotlin, Jetpack Compose, ML Kit, Room, Ktor, PDFBox |
+| [**Spot**](https://spot.christopher.com.mx) | Aplicación de geocaching emocional para guardar cápsulas del tiempo visuales en ubicaciones reales. | Kotlin, Jetpack Compose, Mapbox, Room, Firebase, MVI |
+| [**ParkSpot**](https://parkspot.christopher.com.mx/) | Aplicación para guardar la ubicación del auto, gestionar tickets de estacionamiento y recibir notificaciones. | Kotlin Multiplatform, Compose Multiplatform, Koin, Room, Ktor, Mapbox |
+| [**Override Menu**](https://menu.override.com.mx) | Gestión multiplataforma de menús digitales con sincronización en tiempo real y soporte offline-first. | Kotlin Multiplatform, Compose Multiplatform, Supabase, MVI, Astro |
+| [**Atomo**](https://atomo.click) | Ecosistema de servicios digitales para menús, portafolios, tiendas, CVs e invitaciones. | Android, Jetpack Compose, Astro, Supabase, Cloudflare |
 
-### Ingeniería in Ing. Sistemas Computacionales
-*Instituto Tecnologico Superior De Uruapan*
+Puedes explorar el catálogo completo en [christopher.com.mx/projects](https://www.christopher.com.mx/projects).
 
-Me quedo pequeña la uni.
+## Reconocimientos
 
-### Tecnico in Programación
-*Cetis27*
+- **1er lugar, Innovatec Nacional 2025:** ganador en las categorías de Salud con Lyra y Tecnología con Lerna.
+- **Lanzamiento en Google Play Store 2026:** Parse publicado para usuarios Android.
+- **Ganador, TecNM Innovación 2024:** reconocimiento interno por el proyecto Lyra.
+- **Participante destacado:** Coding Cup México 2021 y 2025.
 
-## 💼 Internships
+## Stack principal
 
-| Company | Position | Duration |
-|---|---|---|
-| Override | CEO | 2022-02 -  |
+### Multiplataforma y móvil
 
-### CEO at Override
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
-Empresa de software dedicada a el desarrollo de los mejores softwares de la zona
+### Backend, Web e infraestructura
 
-## 📞 Contact & Links
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-<div align="left">
+### Arquitectura y herramientas
 
-- 📫 How to reach me **hola@christopher.com.mx**
-- 👨‍💻 All of my projects are available at [https://www.christopher.com.mx](https://www.christopher.com.mx)
-- 📝 I regularly write articles on [https://blog.christopher.com.mx](https://blog.christopher.com.mx)
-- 📄 Know about my experiences [https://www.christopher.com.mx/projects/resume](https://www.christopher.com.mx/projects/resume)
+`Clean Architecture` · `MVI` · `MVVM` · `Room` · `Koin` · `DataStore` · `Firebase` · `Supabase` · `Docker` · `GitHub Actions`
 
-</div>
+## Conecta conmigo
 
-## 🌐 Connect with Me
+- Email: [hola@christopher.com.mx](mailto:hola@christopher.com.mx)
+- Portfolio: [christopher.com.mx](https://www.christopher.com.mx)
+- LinkedIn: [christopher-two](https://www.linkedin.com/in/christopher-two/)
+- GitHub: [christopher-two](https://github.com/christopher-two)
+- Instagram: [@christopher_two_](https://www.instagram.com/christopher_two_/)
+- YouTube: [ChristopherTwo](https://www.youtube.com/@ChristopherTwo)
+- TikTok: [@christopher_two](https://www.tiktok.com/@christopher_two)
+- Blog: [blog.christopher.com.mx](https://blog.christopher.com.mx)
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/christopher-two)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/christopher_two)
+_Ideas que se vuelven productos._
 
 </div>
-
-## 🛠️ Skills & Technologies
-
-### 💻 Programming Languages
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### 💻 Mobile App Development
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;&nbsp;&nbsp;![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 💻 AI/ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 💻 Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 💻 DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;&nbsp;![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### 💻 Backend as a Service (BaaS)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 💻 Software
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 💻 Other
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<div/>
